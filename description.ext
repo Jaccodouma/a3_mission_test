@@ -1,0 +1,4 @@
+class CfgFunctions 
+{
+	#include "modules\interact\CfgFunctions.hpp"
+}

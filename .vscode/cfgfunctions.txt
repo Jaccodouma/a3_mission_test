@@ -1,0 +1,18 @@
+
+class 3d_interact // Tag 
+{
+	class 3d_interact // Category
+	{
+		file = "modules\3d_interact":
+
+		class preInit {
+			preInit = 1;
+		};
+
+		class postInit = {
+			postInit = 1;
+		};
+
+		class addSimpleInteract {};
+	}
+}
